@@ -164,7 +164,7 @@ progress {
     border: 1px solid #ccc;
     font-size: 16px;
     flex: 1; /* Rende gli input adattabili allo spazio disponibile */
-    width: 100%;
+    width: 95%;
 }
 
 .welcome div {
